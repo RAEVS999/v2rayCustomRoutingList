@@ -1,5 +1,5 @@
 [{
-		"outboundTag": "block",
+		"outboundTag": "proxy",
 		"domain": [
 			"geosite:category-ads-all"
 		]
