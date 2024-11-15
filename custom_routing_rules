@@ -1,17 +1,17 @@
 [{
-		"outboundTag": "block",
+		"outboundTag": "proxy",
 		"domain": [
 			"geosite:category-ads-all"
 		]
 	},
 	{
-		"outboundTag": "direct",
+		"outboundTag": "proxy",
 		"domain": [
 			"geosite:cn"
 		]
 	},
 	{
-		"outboundTag": "direct",
+		"outboundTag": "proxy",
 		"ip": [
 			"geoip:private",
 			"geoip:cn"
