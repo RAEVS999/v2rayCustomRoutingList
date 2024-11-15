@@ -8,8 +8,8 @@
     ]
   },
   {
-    "remarks": "阻断udp443",
-    "outboundTag": "block",
+    "remarks": "最终代理",
+    "outboundTag": "proxy",
     "port": "443",
     "network": "udp"
   },
