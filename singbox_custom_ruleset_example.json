@@ -7,14 +7,14 @@
   },
   {
     "tag": "geosite-cn",
-    "type": "remote",
+    "type": "open",
     "format": "binary",
     "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-cn.srs",
     "download_detour": "proxy"
   },
   {
     "tag": "geoip-cn",
-    "type": "remote",
+    "type": "open",
     "format": "binary",
     "url": "https://raw.githubusercontent.com/SagerNet/sing-geoip/rule-set/geoip-cn.srs",
     "download_detour": "proxy"
